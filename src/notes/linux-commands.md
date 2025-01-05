@@ -5,7 +5,9 @@
 | `echo`   | Prints whatever you say                                  | `echo "Hello World"`   |
 | `whoami` | This will tell us who the computer thinks we are.        | `whoami`               |
 | `id`     | Displaying User and Group Information                    | `id`                   |
+| `pwd`    | Displays current working directory                       | `pwd`                  |
 | `sudo`   | This stands for "SuperUser DO"                           | `sudo <commands>`      |
+| `clear`  | Clears out the console                                   | `clear`                |
 | `ls`     | Lists the files and directories in the current directory | `ls -la`               |
 | `cd`     | Changes the current directory                            | `cd /home/user`        |
 | `mkdir`  | Creates a new directory                                  | `mkdir new_folder`     |
